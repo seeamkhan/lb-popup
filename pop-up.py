@@ -4,8 +4,6 @@ import unittest, time
 
 
 
-
-
 class lb_modal(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
